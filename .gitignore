@@ -1,0 +1,14 @@
+bin/*
+libs/*
+resources/*
+.project
+.classpath
+.settings/*
+/bin/
+.idea/workspace.xml
+GooglePlay.iml
+out/*
+/out/
+.idea/
+data/*
+.idea
